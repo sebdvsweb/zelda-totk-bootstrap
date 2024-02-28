@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+
+body {
+    background: url(https://fs-prod-cdn.nintendo-europe.com/media/images/08_content_images/games_6/nintendo_switch_7/nswitch_thelegendofzeldatearsofthekingdom/TheLegendOfZeldaTearsOfTheKingdom_BG_circle_brown.jpg) top left;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    color: #faf7dc;
+}
+
+.container, .container-fluid {
+    padding: 0;
+}
+
+.nav-item a {
+    text-transform: uppercase;
+    font-size:16px;
+    color: #faf7dc;
+    font-weight: bold;
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+}
+
+
+@media (max-width: 992px) {
+    .menu {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 80%;
+        margin: auto;
+    }
+}    
+
+.hl-deco {
+    background: url(../img/deco.png) no-repeat;
+    width: 150px;
+    height: 60px;
+    background-size: contain;
+    margin: 30px auto;
+}
+
+/* CARD */
+
+.card {
+    border-radius:0;
+    background-color: transparent;
+    padding:20px;
+    text-align:center;
+    color: #faf7dc;
+}
+
+.card-img-top {
+    border-radius:0;
+}

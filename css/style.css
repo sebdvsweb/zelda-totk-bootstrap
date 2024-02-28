@@ -1,0 +1,20 @@
+/*
+
+Code couleur
+
+Ocre foncé : #b99f65
+Ocre clair : #faf7dc;
+
+*/
+
+h2 {
+ /* Ajouter la couleur ocre foncée */
+}
+
+
+.bg-danger {
+  /* Ajouter la couleur de fond ocre foncée */
+}
+
+
+/* Mettre la couleur ocre aux titres des colonnes dans les Card (repérer leur classe) */ 
