@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
 
 body {
-    background: url(https://fs-prod-cdn.nintendo-europe.com/media/images/08_content_images/games_6/nintendo_switch_7/nswitch_thelegendofzeldatearsofthekingdom/TheLegendOfZeldaTearsOfTheKingdom_BG_circle_brown.jpg) top left;
+    background: url(../img/bg_circle_brown.jpg) top left;
     font-family: "Libre Baskerville", serif;
     font-weight: 400;
     color: #faf7dc;
